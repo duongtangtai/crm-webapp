@@ -1,0 +1,6 @@
+
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(åÙ­Þúÿÿÿÿ8ï Ûº±0
+q
+java:S19898"UHandle the following exception that could be thrown by "returnJsonData": IOException.(¨’ýV8£ß§ï±0
+q
+java:S1989G"UHandle the following exception that could be thrown by "returnJsonData": IOException.(¨’ýV8¦ß§ï±0
